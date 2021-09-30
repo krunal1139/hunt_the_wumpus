@@ -6,10 +6,6 @@
 	<meta charset="UTF-8">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link rel="stylesheet" href="css/style.css">
-	<!-- Name:- Krunal patel
-	     Student number :- 000826784
-	     Program description:- The below program will insert and update the records of the
-	player email address , the number of games he or she played while playing wumpus game. --> 
 </head>
 
 <body>
